@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544120248 source:c:\users\dan krupa\dropbox\uni\vsb\vsb\bc_ivt_ii\s3\dim\other\dimtest\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
